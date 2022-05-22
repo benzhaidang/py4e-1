@@ -357,9 +357,9 @@ removed. If you don't provide an index, it deletes and returns the last
 element.
 
 If you don't need the removed value, you can use the `del`
-operator:
+del statement:
 
-\index{del operator}
+\index{del statement}
 \index{operator!del}
 
 ~~~~ {.python .trinket}
